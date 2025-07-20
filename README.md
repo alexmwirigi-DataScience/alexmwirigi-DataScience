@@ -1,27 +1,49 @@
-# Alex Mwirigi — Aspiring Machine Learning Engineer 
+# Alex Mwirigi — Machine Learning Engineer | Founder, Kenya School of AI 
 
-Welcome to my GitHub portfolio. I’m a data science and machine learning student based in Kenya, focused on solving real-world problems using artificial intelligence. My core mission is to build AI systems that improve lives — starting with healthcare in Africa.
+Welcome to my GitHub portfolio. I am a Machine Learning Engineer based in Kenya, building full-stack AI systems that solve real problems. My focus is healthcare, education, and building tools that create impact — not just demos.
 
-Currently, I'm developing and deploying machine learning projects while pursuing professional training through platforms like ALX, Coursera, and Udemy. These efforts support my broader goal: launching **"I AM YOUR DOCTOR"**, an AI-powered virtual health assistant that will increase access to affordable, intelligent medical insights across Kenya and beyond.
+I am the founder of the **Kenya School of Artificial Intelligence (KSAI)**, a free, open-access learning initiative that trains students across Africa in AI and machine learning — with a practical, self-paced syllabus built for the local context.
+
+I’m currently developing and deploying end-to-end projects, and actively contributing to open-source education in AI.
 
 ---
 
-## Skills Overview
+## Core Skills
 
-**Programming and Data Handling**  
-Python, SQL, Excel, Pandas, NumPy
+**Programming & Scripting**  
+Python, JavaScript (basic), Bash, SQL
 
-**Data Cleaning and Analysis**  
-Data wrangling, handling missing values, outlier detection, feature engineering
+**Data Science & Machine Learning**  
+Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, OpenCV  
+Data wrangling, feature engineering, supervised/unsupervised learning, evaluation metrics
 
-**Machine Learning and AI**  
-scikit-learn, TensorFlow, model training, evaluation, and basic deployment
+**Deep Learning**  
+Neural networks, CNNs, RNNs, NLP fundamentals  
+Keras, TensorFlow  
+Image and text classification pipelines
 
-**Visualization and Reporting**  
-Power BI, Matplotlib, Seaborn
+**Data Visualization & Business Intelligence**  
+Matplotlib, Seaborn, Power BI, Excel  
+Dashboards, exploratory data analysis, reporting
 
-**Development Tools**  
-Jupyter Notebooks, Streamlit, Git, GitHub
+**APIs & Backend**  
+FastAPI, Flask  
+REST API development, model serving, JSON data exchange
+
+**Frontend & UI Tools**  
+Streamlit, HTML, CSS, Bootstrap (basic)  
+Interactive interfaces for ML applications and dashboards
+
+**DevOps & Deployment**  
+Git, GitHub, Heroku, GitHub Pages  
+Virtual environments, pip/requirements.txt, CI/CD basics, end-to-end deployment
+
+**Cloud & Containers (Learning)**  
+Docker (beginner), AWS (learning)
+
+**Tools & Environments**  
+Jupyter Notebooks, VS Code, Postman, Google Colab  
+Linux terminal, Git workflows, debugging
 
 ---
 
@@ -29,49 +51,49 @@ Jupyter Notebooks, Streamlit, Git, GitHub
 
 ### SAT Data Cleaning Project  
 [View on GitHub](https://github.com/alexmwirigi-DataScience/Data-Cleaning-01.ipynb)  
-Cleaned and prepared SAT test score data, with attention to missing data, outlier detection, and consistent formatting for further modeling.
+Cleaned and prepared SAT test score data for downstream modeling. Focused on missing data treatment, outlier detection, and data standardization.
 
 ### Global Passenger Car Sales Data (2019–2024)  
 [View on GitHub](https://github.com/alexmwirigi-DataScience/Data-Cleaning-02)  
-Cleaned and structured vehicle sales data for analysis and visual exploration. Built for downstream modeling tasks and executive dashboard reporting.
+Structured a real-world automotive dataset for modeling and dashboard reporting. Focused on consistency, time-series preparation, and data enrichment.
 
 ### Google Forms Health Dashboard – Kenya  
 [View on GitHub](https://github.com/alexmwirigi-DataScience/google-forms-responses)  
-Created an interactive dashboard to visualize and analyze healthcare trends in Kenya based on collected survey data.
+Built a dynamic dashboard to analyze healthcare-related survey data from Kenya. Used exploratory data analysis to extract key trends.
 
 ---
 
-## Launch: Kenya School of Artificial Intelligence (KSAI)
+## Founder: Kenya School of Artificial Intelligence (KSAI)
 
-In 2025, I launched a free, self-paced AI learning platform — **Kenya School of Artificial Intelligence (KSAI)** — to empower students and aspiring engineers across Kenya with locally relevant AI skills.
+In 2025, I launched the **Kenya School of Artificial Intelligence (KSAI)** — a free, open-access learning program designed to teach AI and machine learning to anyone across Africa.
 
-View the full syllabus and learning roadmap here:  
+View the syllabus and learning roadmap:  
 [https://alexmwirigi-datascience.github.io/ksai-syllabus/](https://alexmwirigi-datascience.github.io/ksai-syllabus/)
 
-The goal is to democratize access to AI knowledge, especially for students without formal training opportunities. It’s built for Africa, by Africans.
+KSAI is designed for those without access to traditional education — built to remove barriers and grow Africa’s next generation of AI engineers.
 
 ---
 
-## Current Learning
+## Current Focus Areas
 
-- Deep Learning Specialization (Coursera – Andrew Ng)  
-- ALX Data Science Program (Professional Track)  
-- Natural Language Processing (NLP), focused on mental health use cases  
-- End-to-end ML pipelines: data sourcing, modeling, deployment
+- Deep Learning (CNNs, RNNs, Transformers)  
+- Natural Language Processing for mental health and diagnostics  
+- End-to-End ML Pipelines (from data to deployment)  
+- Teaching and mentorship through KSAI and workshops
 
 ---
 
 ## Certifications
 
-- Deep Learning Specialization – Coursera  
-- Data Science Bootcamp – Udemy (365 Data Science)  
+- Deep Learning Specialization – Coursera (Andrew Ng)  
+- Data Science Bootcamp – 365 Data Science (Udemy)  
 - ALX Data Science Program – Ongoing  
 - Google Analytics Certification  
 - Web Development – Great Learning  
 
 ---
 
-## Contact Information
+## Contact
 
 - LinkedIn: [alex-mwirigi-a15b2826b](https://www.linkedin.com/in/alex-mwirigi-a15b2826b/)  
 - Email: mwirigialex351@gmail.com  
@@ -81,5 +103,6 @@ The goal is to democratize access to AI knowledge, especially for students witho
 
 ## Final Note
 
-I’m committed to building accessible, human-centered AI systems. Whether you are a mentor, a student, or a fellow builder passionate about real impact, feel free to reach out. Let’s collaborate to advance machine learning in Africa — starting with healthcare.
+I build AI systems that solve real problems, not just pass benchmarks. If you’re building for Africa, interested in healthcare innovation, or want to collaborate on mission-driven technology, let’s connect.
 
+Let’s lead Africa’s AI revolution — with action, not just ambition.
